@@ -1,0 +1,101 @@
+studentNo,academicYear,name,department,subjectCode,subjectName,dateOfAbsent,,,
+20APC0001,2020/21,K.Shanika Dilrukshi,Department of Computing and Information Systems,IS4101,IT-Auditing,11/1/2024,,,
+20APC0002,2020/21,A.S.Ambagahawatta,Department of Software Engineering,SE4101,Risk Management,11/1/2024,,,
+20APC0003,2020/21,P.A.D.I.Upesha,Department of Software Engineering,SE4102,System Analyss,11/1/2024,,SE4101,Risk Management
+20APC0004,2020/21,M.S.A. Jayathunga,Department of Data Science,DS4101,Data Mining,11/1/2024,,SE4102,System Analyss
+20APC0005,2020/21,U.N.T.Abepala,Department of Computing and Information Systems,IS4102,Web Technologies,11/1/2024,,SE4103,Information System
+20APC0006,2020/21,E.N.Vishaka Lakmali,Department of Software Engineering,SE4104,Data Structures and Algorithms,11/1/2024,,SE4104,Data Structures and Algorithms
+20APC0007,2020/21,V.C.N. Perera,Department of Data Science,DS4102,Data Handling ,11/1/2024,,SE4105,Agile Development
+20APC0008,2020/21,K.R.U.H.Karunarathna,Department of Data Science,DS4103,Ethics in AI and Data Science,11/2/2024,,SE4106,Linear Algebra and Calculus
+20APC0009,2020/21,T.P.Indunil,Department of Data Science,DS4104,Advanced Statistics,11/2/2024,,,
+20APC0010,2020/21,J.R.N.Theeksha,Department of Computing and Information Systems,IS4103,Operating Systems,11/2/2024,,,
+20APC0011,2020/21,U.S.R.Malki,Department of Data Science,DS4105,Time Series Analysis,11/2/2024,,,
+20APC0012,2020/21,A.S.G.S.Somasiri,Department of Data Science,DS4104,Advanced Statistics,11/2/2024,,DS4101,Data Mining
+20APC0013,2020/21,S.K.C.D. Dasanayaka,Department of Data Science,DS4103,Ethics in AI and Data Science,11/2/2024,,DS4102,Data Handling 
+20APC0014,2020/21,J.A.N. Madhuwantha,Department of Data Science,DS4102,Data Handling ,11/5/2024,,DS4103,Ethics in AI and Data Science
+20APC0015,2020/21,W.D.M.L.K.Dissanayake,Department of Software Engineering,SE4105,Agile Development,11/5/2024,,DS4104,Advanced Statistics
+20APC0016,2020/21,Y.I.K. Perera,Department of Computing and Information Systems,IS4104,System Administration,11/5/2024,,DS4105,Time Series Analysis
+20APC0017,2020/21,U.N.T. Abepala,Department of Data Science,DS4101,Data Mining,11/5/2024,,,
+20APC0018,2020/21,M.N.N.Muhammad,Department of Computing and Information Systems,IS4105,IT Procurement,11/5/2024,,IS4101,IT Auditing
+20APC0019,2020/21,M.Z.H.F.Raaziya,Department of Software Engineering,SE4106,Linear Algebra and Calculus,11/7/2024,,IS4102,Web Development
+20APC0020,2020/21,P.G.B.C.K Somarathna,Department of Computing and Information Systems,IS4106,Software Architecture,11/7/2024,,IS4103,Operating Systems
+20APC0021,2020/21,M.A.S.S.Marasinghe,Department of Software Engineering,SE4106,Linear Algebra and Calculus,11/7/2024,,IS4104,System Administration
+20APC0022,2020/21,K.L.E.Isurika,Department of Software Engineering,SE4105,Agile Development,11/7/2024,,IS4105,IT Procurement
+20APC0023,2020/21,K.A.W.Heshan Navindu,Department of Data Science,DS4101,Data Mining,11/10/2024,,IS4106,IS Strategies
+20APC0024,2020/21,S.A.G.N. Jayasekara,Department of Data Science,DS4102,Data Handling ,11/10/2024,,IS4107,Advance Database
+20APC0025,2020/21,H.A.K.P Hettiarachchi ,Department of Data Science,DS4103,Ethics in AI and Data Science,11/10/2024,,IS4108,Network Engineering
+20APC0026,2020/21,R.K.I.A.Rajapaksha,Department of Software Engineering,SE4104,Data Structures and Algorithms,11/10/2024,,IS4109,Project Management
+20APC0027,2020/21,T.P.H. Nethmin,Department of Computing and Information Systems,IS4104,System Administration,11/10/2024,,IS4110,Capstone Project
+20APC0028,2020/21,Y.M.H.D. Yaparathna,Department of Data Science,DS4104,Advanced Statistics,11/10/2024,,,
+20APC0029,2020/21,M. Shakishnavi,Department of Software Engineering,SE4103,Information System,11/15/2024,,,
+20APC0030,2020/21,J. Lakchika,Department of Software Engineering,SE4102,System Analyss,11/15/2024,,,
+20APC0031,2020/21,A.M.P.I. Amarakoon,Department of Data Science,DS4105,Time Series Analysis,11/15/2024,,,
+20APC0032,2020/21,R.M.N.S.Bandara,Department of Software Engineering,SE4101,Risk Management,11/15/2024,,,
+20APC0033,2020/21,G.A.P. Pathum,Department of Data Science,DS4105,Time Series Analysis,11/15/2024,,,
+20APC0034,2020/21,J.R.N. Theeksha,Department of Computing and Information Systems,IS4101,IT Auditing ,11/19/2024,,,
+20APC0035,2020/21,S.M. Kankanamge,Department of Software Engineering,SE4102,System Analyss,11/19/2024,,,
+20APC0036,2020/21,K.W.V.A. Waidyaratne,Department of Data Science,DS4105,Time Series Analysis,11/19/2024,,,
+20APC0037,2020/21,N.L.S. Perera,Department of Data Science,DS4105,Time Series Analysis,11/19/2024,,,
+20APC0038,2020/21,H.K.G.S Prabodhani,Department of Software Engineering,SE4103,Information System,11/19/2024,,,
+20APC0039,2020/21,P.L.O.Viduranga,Department of Software Engineering,SE4103,Information System,11/19/2024,,,
+20APC0040,2020/21,J.M. Jarshan ,Department of Software Engineering,SE4102,System Analyss,11/19/2024,,,
+20APC0041,2020/21,D.S.C wijesinghe,Department of Computing and Information Systems,IS4101,IT Auditing,11/19/2024,,,
+20APC0042,2020/21,K.V.S.A.Dias,Department of Computing and Information Systems,IS4102,Web Development,11/20/2024,,,
+20APC0043,2020/21,K.J.K.Rangalla,Department of Computing and Information Systems,IS4103,Operating System,11/20/2024,,,
+20APC0044,2020/21,S.P.D. Rosa,Department of Computing and Information Systems,IS4104,System Administration,11/20/2024,,,
+20APC0045,2020/21,R.M.N.D.Rathnayaka,Department of Computing and Information Systems,IS4105,IT Procurement,11/20/2024,,,
+20APC0046,2020/21,V.S. Kalhara,Department of Data Science,DS4103,Ethics in AI and Data Science,11/20/2024,,,
+20APC0047,2020/21,M.N.N.Muhammad,Department of Software Engineering,SE4106,Linear Algebra and Calculus,11/24/2024,,,
+20APC0048,2020/21,K.N.Ranawaka,Department of Data Science,DS4104,Advanced Statistics,11/25/2024,,,
+20APC0049,2020/21,K.W.A.Chirantha,Department of Computing and Information Systems,IS4110,IT Procurement,11/25/2024,,,
+20APC0050,2020/21,B.N.N.Wickramasekara,Department of Software Engineering,SE4105,Agile Development,11/25/2024,,,
+20APC0051,2020/21,G.A.L.P.Madushanka,Department of Data Science,DS4103,Ethics in AI and Data Science,11/27/2024,,,
+20APC0052,2020/21,K.M.Y.I.Kulathunga,Department of Data Science,DS4104,Advanced Statistics,11/27/2024,,,
+20APC0053,2020/21,W.A.L. Maduranga,Department of Software Engineering,SE4102,System Analyss,11/27/2024,,,
+20APC0054,2020/21,W.O.H.Chandeepa,Department of Software Engineering,SE4103,Information System,11/27/2024,,,
+20APC0055,2020/21,T.M.K Praneeth,Department of Software Engineering,SE4104,Data Structures and Algorithms,11/27/2024,,,
+20APC0056,2020/21,S.A.G.K.Gunasekara,Department of Computing and Information Systems,IS4107,Advance Database,11/28/2024,,,
+20APC0057,2020/21,S.N.Rajapaksha,Department of Software Engineering,SE4105,Agile Development,11/28/2024,,,
+20APC0058,2020/21,S.M.D.D.L.Samaraweera,Department of Software Engineering,SE4106,Linear Algebra and Calculus,11/28/2024,,,
+20APC0059,2020/21,D.M.E.Madhushan,Department of Data Science,DS4101,Data Mining,11/29/2024,,,
+20APC0060,2020/21,C.N.Ranawaka,Department of Data Science,DS4102,Data Handling ,11/29/2024,,,
+20APC0061,2020/21,G.N.M.Shihara,Department of Computing and Information Systems,IS4106,IS Strategies,11/29/2024,,,
+20APC0062,2020/21,D.V.D. Kalubowila,Department of Computing and Information Systems,IS4107,Advance Database,11/29/2024,,,
+20APC0063,2020/21,L.V.N.Sachintha,Department of Data Science,DS4103,Ethics in AI and Data Science,11/29/2024,,,
+20APC0064,2020/21,P.D.G.Hashara,Department of Computing and Information Systems,IS4109,Project Management,11/30/2024,,,
+20APC0065,2020/21,R.K.K.A Kalindu Sudaraka,Department of Software Engineering,SE4104,Data Structures and Algorithms,12/1/2024,,,
+20APC0066,2020/21,N.H.K Arachchi,Department of Software Engineering,SE4105,Agile Development,12/1/2024,,,
+20APC0067,2020/21,D.B.K.Weerasekara,Department of Software Engineering,SE4106,Linear Algebra and Calculus,12/1/2024,,,
+20APC0068,2020/21,D.R.Nammuni,Department of Computing and Information Systems,IS4104,System Administration,12/1/2024,,,
+20APC0069,2020/21,M.R.M.Musharraf,Department of Data Science,DS4105,Time Series Analysis,12/1/2024,,,
+20APC0070,2020/21,S.M.N.S.Bandara,Department of Software Engineering,SE4106,Linear Algebra and Calculus,12/1/2024,,,
+20APC0071,2020/21,M.M.I.G.De Silva,Department of Computing and Information Systems,IS4106,IS Strategies,12/3/2024,,,
+20APC0072,2020/21,N. G. M. Mudamjith,Department of Software Engineering,SE4102,System Analyss,12/3/2024,,,
+20APC0073,2020/21,A.R.Y Wijerathna,Department of Software Engineering,SE4103,Information System,12/3/2024,,,
+20APC0074,2020/21,A.T.Dilruksha,Department of Software Engineering,SE4104,Data Structures and Algorithms,12/3/2024,,,
+20APC0075,2020/21,R.H.P.Sandaruwan,Department of Software Engineering,SE4105,Agile Development,12/3/2024,,,
+20APC0076,2020/21,M.S.Sanjula,Department of Data Science,DS4102,Data Handling ,12/5/2024,,,
+20APC0077,2020/21,J.K.S.Keshan,Department of Data Science,DS4103,Ethics in AI and Data Science,12/6/2024,,,
+20APC0078,2020/21,W.B.M.C.D.Weerasekara,Department of Software Engineering,SE4103,Information System,12/10/2024,,,
+20APC0079,2020/21,G.A. Pramodaya,Department of Computing and Information Systems,IS4109,Project Management,12/10/2024,,,
+20APC0080,2020/21,D.A.P.Sathsara,Department of Software Engineering,SE4105,Agile Development,12/10/2024,,,
+20APC0081,2020/21,I.V.P.Wejethunga ,Department of Data Science,DS4105,Time Series Analysis,12/10/2024,,,
+20APC0082,2020/21,M. Z. Muhammad,Department of Software Engineering,SE4103,Information System,12/10/2024,,,
+20APC0083,2020/21,R.J.A.Sainuka,Department of Software Engineering,SE4104,Data Structures and Algorithms,12/13/2024,,,
+20APC0084,2020/21,A.Mary Angel,Department of Data Science,DS4101,Data Mining,12/14/2024,,,
+20APC0085,2020/21,C. S Samarasinghe,Department of Computing and Information Systems,IS4102,Web Development,12/15/2024,,,
+20APC0086,2020/21,I.L.H.Gamage,Department of Software Engineering,SE4104,Data Structures and Algorithms,12/15/2024,,,
+20APC0087,2020/21,Vaishaly.M,Department of Data Science,DS4103,Ethics in AI and Data Science,12/15/2024,,,
+20APC0088,2020/21,T.Dhakshajini,Department of Computing and Information Systems,IS4110,Capstone Project,12/15/2024,,,
+20APC0089,2020/21,Heshayani.M,Department of Software Engineering,SE4102,System Analyss,12/15/2024,,,
+20APC0090,2020/21,S.Mithushika,Department of Computing and Information Systems,IS4108,Network Engineering,12/16/2024,,,
+20APC0091,2020/21,S.Tharmika,Department of Software Engineering,SE4106,Linear Algebra and Calculus,12/17/2024,,,
+20APC0092,2020/21,T.Tharshana,Department of Data Science,DS4103,Ethics in AI and Data Science,12/17/2024,,,
+20APC0093,2020/21,L.H.U.Ingeetha,Department of Data Science,DS4104,Advanced Statistics,12/17/2024,,,
+20APC0094,2020/21,S.C.Ganegoda,Department of Computing and Information Systems,IS4102,Web Development,12/18/2024,,,
+20APC0095,2020/21,A.V.Sandamini,Department of Computing and Information Systems,IS4103,Operating Systems,12/18/2024,,,
+20APC0096,2020/21,R.P.D. Sewwandi,Department of Computing and Information Systems,IS4104,Data Structures and Algorithms,12/18/2024,,,
+20APC0097,2020/21,Pinil Dissanayaka,Department of Computing and Information Systems,IS4105,IT Procurement,12/22/2024,,,
+20APC0098,2020/21,B.T.A. Basnayake ,Department of Data Science,DS4104,Advanced Statistics,12/22/2024,,,
+20APC0099,2020/21,L.K.T.A. Gunawardhana,Department of Data Science,DS4105,Time Series Analysis,12/22/2024,,,
+20APC0100,2020/21,M.A.N.N.I.Marasinghe,Department of Software Engineering,SE4105,Agile Development,12/22/2024,,,
