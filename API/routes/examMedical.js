@@ -114,7 +114,7 @@ const storage = multer.diskStorage({
       res.json({ message: "Medical record deleted successfully" })
     } catch (error) {
       console.error(error)
-      res.status(500).json({ message: "Error deleting exam medical record" })
+      res.status(500).json({ message: "Error deleting  medical record" })
     }
   })
   
