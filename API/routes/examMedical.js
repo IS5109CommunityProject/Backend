@@ -104,6 +104,26 @@ const storage = multer.diskStorage({
       res.status(500).json({ message: "Error updating exam medical record" })
     }
   })
+
+  router.patch("/approve:id", async(req,res)=>{
+    try{
+      const updatedStatus=await Medical.findByIdAndUpdate(
+        req.params.id,{approveStatus:"Approved"},{new:true}
+      );
+  
+      if(updatedStatus!=null){
+        return res.status(404).json({ message: "Medical record not found" });
+      }
+  
+      res.json({
+        message: "Medical record approved successfully",
+        medical: updatedMedical,
+      });
+    } catch (error) {
+      console.error(error);
+      res.status(500).json({ message: "Error updating medical record" });
+    }
+  });
   
   router.delete("/:studentNo", async (req, res) => {
     try {
