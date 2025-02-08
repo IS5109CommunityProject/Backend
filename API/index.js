@@ -21,6 +21,7 @@ mongoose.connect(process.env.MONGO)
     console.log(err);
   });
 
+
 app.use(express.json());  
 app.use(express.urlencoded({ extended: true }));
 
