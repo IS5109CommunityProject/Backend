@@ -12,7 +12,8 @@ const medicalSchema = new mongoose.Schema({
   academicYear: String,
   department: String,
   medicalDetails: [subjectSchema],
-  medicalFile: String
+  approveStatus: { type: String, default: "Pending" },
+  medicalFile: { type: String, default: "" }
 });
 
 const Medical = mongoose.model('Medical', medicalSchema);
