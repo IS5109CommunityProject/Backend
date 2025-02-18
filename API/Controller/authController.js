@@ -4,7 +4,7 @@ import { errorHandler } from "../Utils/error.js"
 import jwt from "jsonwebtoken";
 
 export const signUp = async (req, res, next) => {
-  const { username, email, password, Stream } = req.body;
+  const { username, email, password } = req.body;
 
   // Check if password is provided
   if (!password) {
@@ -20,7 +20,6 @@ export const signUp = async (req, res, next) => {
       username,
       email,
       password: hashedPassword,
-      Stream,
     });
 
     // Save the new user
@@ -50,7 +49,7 @@ export const signIn = async (req, res, next) => {
     res
       .cookie("access_token", token, { httpOnly: true, expires: expiryDate })
       .status(200)
-      .json(rest);
+      .json({ message: "User logged in successfully" });
   } catch (error) {
     next(error);
   }
