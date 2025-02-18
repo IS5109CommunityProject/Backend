@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import examMedicalRoutes from './routes/examMedical.js';
 import userRoute from './routes/userRoute.js';
 import authRoutes from './routes/authRoute.js';
+import announcementsRoutes from "./routes/announcementRoute.js"
 import cors from 'cors';
 
 dotenv.config();
@@ -28,6 +29,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/medical', examMedicalRoutes);
 app.use('/user', userRoute);
 app.use('/api/auth', authRoutes);
+app.use('/announcements', announcementsRoutes);
 
 app.listen(3002, () => {
   console.log('Server running on port 3002');
